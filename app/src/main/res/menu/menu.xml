@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ToDoTask"
+        android:title="Completar Tarea"/>
+
+    <item
+        android:id="@+id/Deletetask"
+        android:title="Eliminar Tarea"/>
+    <item
+        android:id="@+id/Updatetask"
+        android:title="Modificar Tarea"/>
+    <item
+        android:id="@+id/Sendtask"
+        android:title="Enviar Tarea"/>
+</menu>

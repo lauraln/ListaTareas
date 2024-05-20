@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListaTareasFinal</string>
+    <string name="bienvenida">Hola Laura</string>
+    <string name="tareasSinCompletar">Tareas Sin completar</string>
+    <string name="volver">Volver</string>
+    <string name="tareasCompletadas">Tareas Completadas</string>
+    <string name="titulo">Título de tarea</string>
+    <string name="fechaHora">Fecha y Hora</string>
+    <string name="completada">Completada</string>
+    <string name="guardar">Guardar Cambios</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="pequenia">Pequeña</string>
+    <string name="grande">Grande</string>
+    <string name="noti">Noti</string>
+
+</resources>

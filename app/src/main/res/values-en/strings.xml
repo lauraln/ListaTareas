@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalTaskList</string>
+    <string name="bienvenida">Hello Laura</string>
+    <string name="tareasSinCompletar">Uncompleted Tasks</string>
+    <string name="volver">Return</string>
+    <string name="tareasCompletadas">Completed Tasks</string>
+    <string name="titulo">Task Title</string>
+    <string name="fechaHora">Date and Time</string>
+    <string name="completada">Completed</string>
+    <string name="guardar">Save Changes</string>
+    <string name="limpiar">Clear</string>
+    <string name="pequenia">Small</string>
+    <string name="grande">Large</string>
+    <string name="noti">Noti</string>
+</resources>
